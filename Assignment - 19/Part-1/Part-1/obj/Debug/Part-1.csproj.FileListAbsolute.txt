@@ -1,0 +1,8 @@
+F:\Day - 16\Assignment - 19\Part-1\Part-1\bin\Debug\Part-1.exe.config
+F:\Day - 16\Assignment - 19\Part-1\Part-1\bin\Debug\Part-1.exe
+F:\Day - 16\Assignment - 19\Part-1\Part-1\bin\Debug\Part-1.pdb
+F:\Day - 16\Assignment - 19\Part-1\Part-1\obj\Debug\Part-1.csproj.AssemblyReference.cache
+F:\Day - 16\Assignment - 19\Part-1\Part-1\obj\Debug\Part-1.csproj.SuggestedBindingRedirects.cache
+F:\Day - 16\Assignment - 19\Part-1\Part-1\obj\Debug\Part-1.csproj.CoreCompileInputs.cache
+F:\Day - 16\Assignment - 19\Part-1\Part-1\obj\Debug\Part-1.exe
+F:\Day - 16\Assignment - 19\Part-1\Part-1\obj\Debug\Part-1.pdb

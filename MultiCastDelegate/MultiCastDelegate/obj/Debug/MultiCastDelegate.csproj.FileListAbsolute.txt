@@ -1,0 +1,8 @@
+F:\Day - 16\MultiCastDelegate\MultiCastDelegate\bin\Debug\MultiCastDelegate.exe.config
+F:\Day - 16\MultiCastDelegate\MultiCastDelegate\bin\Debug\MultiCastDelegate.exe
+F:\Day - 16\MultiCastDelegate\MultiCastDelegate\bin\Debug\MultiCastDelegate.pdb
+F:\Day - 16\MultiCastDelegate\MultiCastDelegate\obj\Debug\MultiCastDelegate.csproj.AssemblyReference.cache
+F:\Day - 16\MultiCastDelegate\MultiCastDelegate\obj\Debug\MultiCastDelegate.csproj.SuggestedBindingRedirects.cache
+F:\Day - 16\MultiCastDelegate\MultiCastDelegate\obj\Debug\MultiCastDelegate.csproj.CoreCompileInputs.cache
+F:\Day - 16\MultiCastDelegate\MultiCastDelegate\obj\Debug\MultiCastDelegate.exe
+F:\Day - 16\MultiCastDelegate\MultiCastDelegate\obj\Debug\MultiCastDelegate.pdb

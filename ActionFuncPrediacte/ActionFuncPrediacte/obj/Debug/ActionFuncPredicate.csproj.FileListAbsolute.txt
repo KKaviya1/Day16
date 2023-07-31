@@ -1,0 +1,8 @@
+F:\Day - 16\ActionFuncPrediacte\ActionFuncPrediacte\bin\Debug\ActionFuncPrediacte.exe.config
+F:\Day - 16\ActionFuncPrediacte\ActionFuncPrediacte\bin\Debug\ActionFuncPrediacte.exe
+F:\Day - 16\ActionFuncPrediacte\ActionFuncPrediacte\bin\Debug\ActionFuncPrediacte.pdb
+F:\Day - 16\ActionFuncPrediacte\ActionFuncPrediacte\obj\Debug\ActionFuncPredicate.csproj.AssemblyReference.cache
+F:\Day - 16\ActionFuncPrediacte\ActionFuncPrediacte\obj\Debug\ActionFuncPredicate.csproj.SuggestedBindingRedirects.cache
+F:\Day - 16\ActionFuncPrediacte\ActionFuncPrediacte\obj\Debug\ActionFuncPredicate.csproj.CoreCompileInputs.cache
+F:\Day - 16\ActionFuncPrediacte\ActionFuncPrediacte\obj\Debug\ActionFuncPrediacte.exe
+F:\Day - 16\ActionFuncPrediacte\ActionFuncPrediacte\obj\Debug\ActionFuncPrediacte.pdb

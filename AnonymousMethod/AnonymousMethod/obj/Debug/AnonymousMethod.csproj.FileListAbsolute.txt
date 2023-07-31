@@ -1,0 +1,8 @@
+F:\Day - 16\AnonymousMethod\AnonymousMethod\bin\Debug\AnonymousMethod.exe.config
+F:\Day - 16\AnonymousMethod\AnonymousMethod\bin\Debug\AnonymousMethod.exe
+F:\Day - 16\AnonymousMethod\AnonymousMethod\bin\Debug\AnonymousMethod.pdb
+F:\Day - 16\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.csproj.AssemblyReference.cache
+F:\Day - 16\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.csproj.SuggestedBindingRedirects.cache
+F:\Day - 16\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.csproj.CoreCompileInputs.cache
+F:\Day - 16\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.exe
+F:\Day - 16\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.pdb
